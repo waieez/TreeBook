@@ -1,3 +1,5 @@
+![codeshipped](https://codeship.com/projects/7c1229b0-b60b-0132-ac42-4286e2c721fd/status?branch=codeship)
+
 # ![TreeBook Logo](https://s3-us-west-1.amazonaws.com/treebookicons/tree-64.png) TreeBook
 
 TreeBook is the definitive social networking site for trees.
